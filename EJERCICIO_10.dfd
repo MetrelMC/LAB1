@@ -1,0 +1,25 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+17
+precioU, cantidad
+6
+2
+8
+impuesto
+18
+precioU * cantidad
+8
+importeT
+31
+(precioU * cantidad) + impuesto
+4
+1
+8
+importeT
+1

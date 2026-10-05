@@ -1,0 +1,29 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+5
+1
+6
+x1, y1
+4
+1
+32
+'Ingrese las otras coordenadas '
+5
+1
+6
+x2, y2
+6
+1
+1
+D
+29
+sqrt((x2-x1) ^ 2 + (y2-y1)^2)
+4
+1
+1
+D
+1
